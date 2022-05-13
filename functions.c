@@ -1,9 +1,7 @@
 #include "header.h"
-// put some lines
-//
-//
 
-int sortArray(int* array, int len)
+
+int sortArray(int* array, int len){ function body }
 {
     int key;
     for(int j=1; j<len; j++)
