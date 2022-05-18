@@ -1,5 +1,5 @@
 #include "header.h"
-// this is for test
+// this is for test ahahahah
 int main(int/*this is for test*/ argc, char** argv)
 {
     int student_id = atoi(argv[1]);
